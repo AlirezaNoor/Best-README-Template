@@ -1,5 +1,5 @@
-** Banner Maker : create banner for your project
-[href="https://banner.godori.dev/]
+** Banner Maker [<a href="https://banner.godori.dev/">] : create banner for your project
+
 
 # 1- h1 ( Title ) -> sample : Golang REST API With Kubernetes Helm Chart EXAMPLE Project
 
