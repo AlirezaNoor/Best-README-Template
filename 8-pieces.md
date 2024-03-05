@@ -9,10 +9,9 @@
 
 ## 5- User Instructures -> sample : How to install this example Golang project on Kubernetes
 
-1- ....
-2- ...
-3- ...
-4- ...
+- Item 1
+- Item 2
+- Item 3
 
 ## 6- Developer Instructions -> sample : How to tweak this project for your own uses 
 
