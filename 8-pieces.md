@@ -19,9 +19,9 @@
 
 ## 8- Kown issues (Work in progress)
 
-** Banner Maker [href=https://banner.godori.dev/] : create banner for your project
-** Shield io [http://shields.io] -> sample : [https://img.shields.io/appveyor/build/Mohammad-Ranjbar/Mohammad]
-** Carbon : [https://carbon.now.sh] : create banner but for code
+** Banner Maker [href="https://banner.godori.dev/"] : create banner for your project
+** Shield io ["http://shields.io"] -> sample : ["https://img.shields.io/appveyor/build/Mohammad-Ranjbar/Mohammad"]
+** Carbon : ["https://carbon.now.sh"] : create banner but for code
 
 ### another ways
 - Add Logo or Banner
@@ -31,4 +31,4 @@
 - Installation and Usage
 - Additional Info , Contribution , License , Donation etc.
 
-## online tool to create readme file : [https://readme.so/]
+## online tool to create readme file : ["https://readme.so/"]
