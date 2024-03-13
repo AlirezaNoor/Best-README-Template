@@ -1,4 +1,4 @@
-# 1- h1 ( Title ) -> sample : Golang REST API With Kubernetes Helm Chart EXAMPLE Project
+# 1- h1 ( Title ) -> sample : Golang REST API With Kubernetes Helm Chart EXAMPLE Project.
 
 ## 2- h2 ( Subtitle ) -> sample : A fully functional EXAMPLE project written in Go Showing how to create a REST API and deploy tp Kubernetes
 
